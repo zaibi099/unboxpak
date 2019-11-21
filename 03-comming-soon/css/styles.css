@@ -155,6 +155,7 @@ body {
 	max-width: 525px;
 	margin: 20px auto;
 	padding: 30px;
+	background: #f5f2f2;
 }
 
 @media only screen and (max-width: 600px) {
